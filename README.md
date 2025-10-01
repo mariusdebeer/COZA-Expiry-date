@@ -15,7 +15,7 @@ Supports checking multiple domains via loops
 
 ### Installation
 ```
-git clone [<your-repo-url>](https://github.com/mariusdebeer/COZA-Expiry-date.git)
+git clone https://github.com/mariusdebeer/COZA-Expiry-date.git
 cd whois-coza-checker
 chmod +x whois_cozaexpire.sh
 ```
